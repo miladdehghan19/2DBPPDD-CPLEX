@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bin Packing Due Date EJOR 2018/1.0.0": {
+        "dependencies": {
+          "ILOG.Concert": "12.9.0.0",
+          "ILOG.CPLEX": "12.9.0.0"
+        },
+        "runtime": {
+          "Bin Packing Due Date EJOR 2018.dll": {}
+        }
+      },
+      "ILOG.Concert/12.9.0.0": {
+        "runtime": {
+          "ILOG.Concert.dll": {
+            "assemblyVersion": "12.9.0.0",
+            "fileVersion": "12.9.0.0"
+          }
+        }
+      },
+      "ILOG.CPLEX/12.9.0.0": {
+        "runtime": {
+          "ILOG.CPLEX.dll": {
+            "assemblyVersion": "12.9.0.0",
+            "fileVersion": "12.9.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bin Packing Due Date EJOR 2018/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ILOG.Concert/12.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ILOG.CPLEX/12.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
